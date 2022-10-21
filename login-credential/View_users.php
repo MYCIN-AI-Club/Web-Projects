@@ -28,7 +28,7 @@
             <th>User Name</th>  
             <th>User E-mail</th>  
             <th>User Pass</th>  
-            <th>Delete User</th>  
+            <th>Delete Users</th>  
         </tr>  
         </thead>  
   
